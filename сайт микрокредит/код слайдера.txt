@@ -1,0 +1,18 @@
+
+ <div class="slider">
+    <div class="item">
+          <img class = "banner-img"src="img/banner.png" alt="ѕервый слайд">
+          <div class="slideText"></div>
+
+    </div>
+    <div class="item">
+        <img class = "banner-img" src="img/banner Ч копи€.png" alt="¬торой слайд">
+        <div class="slideText"></div>
+
+    </div>
+    <div class="item">
+        <img class="banner-img" src="img/banner Ч копи€ (2).png" alt="“ретий слайд">
+        <div class="slideText"></div>
+
+    </div>
+   </div>
